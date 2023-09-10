@@ -48,7 +48,7 @@ hr{
    margin-top: 10px;
    margin-left: 250px;
    border-radius: 5px;
-   background-color: blueviolet;
+   background-color: rgb(156, 43, 226);
    cursor: pointer;
    color: #fff;
   
@@ -90,11 +90,20 @@ hr{
     font-size: 50px;
     color: #fff;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 
+    'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode',
+     Geneva, Verdana, 
+     sans-serif;
 }
 .ptext{
     font-size: 15px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 
+    'Lucida Sans Regular', 
+    'Lucida Grande', 
+    'Lucida Sans Unicode',
+     Geneva, Verdana, 
+     sans-serif;
      font-weight: bold;
      color: #fff;
      text-align: center;
@@ -111,7 +120,12 @@ hr{
     
 }
 .btn22{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans',
+     'Lucida Sans Regular',
+      'Lucida Grande', 
+      'Lucida Sans Unicode',
+       Geneva, Verdana, 
+       sans-serif;
     font-weight: bolder;
     color: #fff;
    
