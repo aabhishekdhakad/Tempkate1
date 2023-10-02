@@ -114,7 +114,7 @@ hr{
     width: 166px;
     height: 42px;
     border-radius: 5px;
-    background-color: hsl(300, 100%, 27%);
+    background-color: hsla(300, 100%, 27%, 0.975);
     margin-bottom: 120px;
     cursor: pointer;
     
