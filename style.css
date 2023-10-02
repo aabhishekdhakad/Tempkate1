@@ -5,7 +5,7 @@
 }
 nav{
     height: 55px;
-    background-color: rgb(255, 215, 213);
+    background-color: #ffdbd5;
     display: flex;
     justify-content: space-around;
 }
@@ -34,7 +34,7 @@ nav:hover{
 }
 
 hr{
-   border-right: 0.5 solid white;
+   border-right: 0.5 solid #fff;
    height: 30px;
 }
 
